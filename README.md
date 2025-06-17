@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Vue-Compnents
+>>>>>>> af36f37 (Initial commit)
