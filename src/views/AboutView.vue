@@ -2,7 +2,6 @@
   <div class="about">
     <h1>This is an about page</h1>
   </div>
-<<<<<<< HEAD
   <BaseCard></BaseCard>
 </template>
 <script>
@@ -13,6 +12,3 @@ export default {
   }
 }
 </script>
-=======
-</template>
->>>>>>> 5294b66 (init)
